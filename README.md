@@ -24,3 +24,7 @@ To run the app, follow these steps:
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
 3. Build and run the app on an Android emulator or physical device.
+
+The complete code of the above app is present in the dev branch......
+
+Happy Coding 😄.
